@@ -1,0 +1,11 @@
+A kezdő oldalra kell egy lírás a szmológépről
+ne lehessen görgetni
+egy rövid leírás a számológépről 
+kell egy gomb ami a számológép oldalára vezet 
+3 fontos adat
+4 socal media icon
+ media query méret:
+ Mobile: 360x640
+ Tablet: 768x1024
+ Desktop: 1920x1080
+ 
